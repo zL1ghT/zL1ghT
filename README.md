@@ -3,16 +3,8 @@
 
 Daniele Guglietti
 
-Italian student. I really love math and informatic.
+Italian student. Math and informatic lover.
 
-***
-
-## Abilities
-
-![1](https://img.shields.io/static/v1?label=Front-End&message=developer&color=&style=for-the-badge)
-![2](https://img.shields.io/static/v1?label=minecraft&message=ADDOns%20creator&color=&style=for-the-badge) 
-
-![3](https://img.shields.io/static/v1?label=C%2b%2b%20%26%20java&message=app%20developer&color=&style=for-the-badge) ![4](https://img.shields.io/static/v1?label=node.js&message=app%20developer&color=&style=for-the-badge)
 
 ***
 <br>
@@ -21,7 +13,7 @@ Italian student. I really love math and informatic.
 
 <br>
 
-![C++](https://img.shields.io/static/v1?label=C%2b%2b&message=Coder&color=00b7b5&logo=c%2b%2b&logoColor=00b7b5&style=for-the-badge) ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=Coder&color=fb0&logo=javascript&style=for-the-badge) ![Java](https://img.shields.io/static/v1?label=Java&message=Coder&color=red&logo=java&logoColor=fff&style=for-the-badge) ![HTML](https://img.shields.io/static/v1?label=HTML%20%26%20CSS&message=Designer&color=f16529&logo=html5&logoColor=f16529&style=for-the-badge)<br/> 
+![C++](https://img.shields.io/static/v1?label=C%2b%2b&message=Developer&color=00b7b5&logo=c%2b%2b&logoColor=00b7b5&style=for-the-badge) ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=Developer&color=fb0&logo=javascript&style=for-the-badge) ![Java](https://img.shields.io/static/v1?label=Java&message=Developer&color=red&logo=java&logoColor=fff&style=for-the-badge) ![HTML](https://img.shields.io/static/v1?label=HTML%20%26%20CSS&message=Designer&color=f16529&logo=html5&logoColor=f16529&style=for-the-badge)<br/> 
 ![SQLITE](https://img.shields.io/static/v1?label=SQLite&message=DEVELOPER&color=blue&logo=sqlite&logoColor=fff&style=for-the-badge) ![MYSQL](https://img.shields.io/static/v1?label=MySQL&message=DEVELOPER&color=blue&logo=mysql&logoColor=fff&style=for-the-badge)<br/>
 ![PHP](https://img.shields.io/static/v1?label=PHP&message=WIP&color=aaf&logo=php&logoColor=aaf&style=for-the-badge) ![Python](https://img.shields.io/static/v1?label=Python&message=WIP&color=blue&logo=python&logoColor=blue&style=for-the-badge)
 
