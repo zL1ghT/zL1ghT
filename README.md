@@ -7,11 +7,17 @@ I really enjoy math & computer science.</p>
 
 <br/>
 
-- 🔭 I’m currently working on **[Jackpot Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**!
+- 🔭 I’m currently working on **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**!
 - 📖 I’m currently learning **Python**!
-- 🥅 2020 Goals: Contribute more to Open Source projects & extend my knowledge
+- 🥅 2020 Goals: End & publish **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**.
 - ⚡ Fun fact: I love to and play **drums** and **videogames**!
 
+<br/>
+
+
+### 🔊 Now Playing
+
+![Spotify](https://novatorem.danieleguglietti.vercel.app/api/spotify)
 
 <br/>
 
@@ -40,6 +46,19 @@ I really enjoy math & computer science.</p>
 <br/>
 
 ![MATERIALUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+
+---
+<br/>
+
+## Contacts
+
+<br/>
+
+Write me an e-mail at: [business@zl1ght.com](mailto:business@zl1ght.com) (business purpose only)
+
+Otherwise write me here: [info@zl1ght.com](mailto:business@zl1ght.com)
+
+<br/>
 
 ---
 
