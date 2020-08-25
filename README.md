@@ -2,8 +2,16 @@
 # Welcome
 
 <p>Hi there 👋🏻 <br/>
-I'm Daniele, an italian CS student.<br/>
+I'm Daniele, an italian Computer Science student.<br/>
 I really enjoy math & computer science.</p>
+
+<br/>
+
+- 🔭 I’m currently working on **[Jackpot Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**!
+- 📖 I’m currently learning **Python**!
+- 🥅 2020 Goals: Contribute more to Open Source projects & extend my knowledge
+- ⚡ Fun fact: I love to and play **drums** and **videogames**!
+
 
 <br/>
 
