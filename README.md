@@ -44,6 +44,9 @@ I really enjoy math & computer science.</p>
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//zL1ghT/JackpotPlugin/pull/1) in [zL1ghT/JackpotPlugin](https://github.com//zL1ghT/JackpotPlugin)
+2. 💪 Opened PR [#1](https://github.com//zL1ghT/JackpotPlugin/pull/1) in [zL1ghT/JackpotPlugin](https://github.com//zL1ghT/JackpotPlugin)
+3. ❗️ Closed issue [#449](https://github.com//wjakob/nanogui/issues/449) in [wjakob/nanogui](https://github.com//wjakob/nanogui)
 <!--END_SECTION:activity-->
 
 ---
