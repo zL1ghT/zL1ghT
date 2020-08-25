@@ -1,39 +1,41 @@
 
 # Welcome
 
-Daniele Guglietti
+<p>Hi there 👋🏻 <br/>
+I'm Daniele, an italian CS student.<br/>
+I really enjoy math & computer science.</p>
 
-Italian student. Math and informatic lover.
+<br/>
 
+[![TWITCH](https://img.shields.io/badge/zL1ghT__%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/zl1ght_)
+[![TWITTER](https://img.shields.io/badge/@d__guglietti-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/d_guglietti)
+[![CHANNEL](https://img.shields.io/badge/zl1ght__-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9QutyUtsEd9Svsu5KbnlJA/)
+[![SPOTIFY](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5ww3leqjy5khcb7zo2e1gvp7d?si=EBol0E15Q-KVVUzPVjtprA)
 
-***
-<br>
+---
 
 ## Languages
 
-<br>
+<br/>
 
-![C++](https://img.shields.io/static/v1?label=C%2b%2b&message=Developer&color=00b7b5&logo=c%2b%2b&logoColor=00b7b5&style=for-the-badge) ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=Developer&color=fb0&logo=javascript&style=for-the-badge) ![Java](https://img.shields.io/static/v1?label=Java&message=Developer&color=red&logo=java&logoColor=fff&style=for-the-badge) ![HTML](https://img.shields.io/static/v1?label=HTML%20%26%20CSS&message=Designer&color=f16529&logo=html5&logoColor=f16529&style=for-the-badge)<br/> 
-![SQLITE](https://img.shields.io/static/v1?label=SQL&message=DEVELOPER&color=blue&logo=sqlite&logoColor=fff&style=for-the-badge)<br/>![Python](https://img.shields.io/static/v1?label=Python&message=WIP&color=blue&logo=python&logoColor=blue&style=for-the-badge)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-***
-<br>
+<br/>
+<br/>
 
-## Connect with me
+## Frameworks
 
-<br>
+<br/>
 
-[![YOUTUBE](https://img.shields.io/static/v1?label=YouTube&message=Channel&color=f00&logo=youtube&logoColor=f00&style=for-the-badge)](youtube.zl1ght.com) [![SITE](https://img.shields.io/static/v1?label=site&message=Portfolio&color=fb0&logoColor=0af&style=for-the-badge)](https://zl1ght.com) [![DISCORD](https://img.shields.io/static/v1?label=discord&message=server&color=aaf&logo=discord&logoColor=aaf&style=for-the-badge)](discord.zl1ght.com)
+![MATERIALUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
-***
+---
 
-## CONTACTS
-<br>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-### Business purpose mails [business@zl1ght.com](mailto:business@zl1ght.com)
-
-### For infos about my products [info@zl1ght.com](mailto:info@zl1ght.com)
-
-<br>
-
-##### Others kind of requests, contact me on Discord DMs
+---
