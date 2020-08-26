@@ -39,13 +39,13 @@ I really enjoy math & computer science.</p>
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
+<!-- <br/> -->
+
+<!-- ## Frameworks
+
 <br/>
 
-## Frameworks
-
-<br/>
-
-![MATERIALUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+![MATERIALUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white) -->
 
 ---
 <br/>
