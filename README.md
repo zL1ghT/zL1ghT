@@ -56,9 +56,9 @@ Otherwise write me here: [info@zl1ght.com](mailto:business@zl1ght.com)
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//danieleguglietti/DynamicsStorages/pull/1) in [danieleguglietti/DynamicsStorages](https://github.com//danieleguglietti/DynamicsStorages)
-2. 💪 Opened PR [#1](https://github.com//danieleguglietti/DynamicsStorages/pull/1) in [danieleguglietti/DynamicsStorages](https://github.com//danieleguglietti/DynamicsStorages)
-3. 🎉 Merged PR [#6](https://github.com//danieleguglietti/JackpotMinecraftPlugin/pull/6) in [danieleguglietti/JackpotMinecraftPlugin](https://github.com//danieleguglietti/JackpotMinecraftPlugin)
+1. 🎉 Merged PR [#1](https://github.com/danieleguglietti/DynamicsStorages/pull/1) in [danieleguglietti/DynamicsStorages](https://github.com/danieleguglietti/DynamicsStorages)
+2. 💪 Opened PR [#1](https://github.com/danieleguglietti/DynamicsStorages/pull/1) in [danieleguglietti/DynamicsStorages](https://github.com/danieleguglietti/DynamicsStorages)
+3. 🎉 Merged PR [#6](https://github.com/danieleguglietti/JackpotMinecraftPlugin/pull/6) in [danieleguglietti/JackpotMinecraftPlugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)
 <!--END_SECTION:activity-->
 
 ---
