@@ -33,10 +33,28 @@ I really enjoy math & computer science.</p>
 <br/>
 
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TS](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br/>
+
+## Frameworks & Libraries
+
+![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MATERIAL-UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+![JQUERY](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+
+<br/>
+
+## Runtimes
+![NODE](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![DENO](https://img.shields.io/badge/DENO%20-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white)
 
 <br/>
 
@@ -47,9 +65,8 @@ I really enjoy math & computer science.</p>
 
 <br/>
 
-Write me an e-mail at: [business@zl1ght.com](mailto:business@zl1ght.com) (business purpose only)
-
-Otherwise write me here: [info@zl1ght.com](mailto:business@zl1ght.com)
+[![EMAIL](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieleguglietti@gmail.com)
+[![TG](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/#/im?p=@zl1ght)
 
 <br/>
 
