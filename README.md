@@ -73,9 +73,9 @@ I really enjoy math & computer science.</p>
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/danieleguglietti/discord_bot/pull/1) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
-2. 💪 Opened PR [#1](https://github.com/danieleguglietti/discord_bot/pull/1) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
-3. 🎉 Merged PR [#3](https://github.com/danieleguglietti/JackpotPlugin/pull/3) in [danieleguglietti/JackpotPlugin](https://github.com/danieleguglietti/JackpotPlugin)
+1. 🎉 Merged PR [#2](https://github.com/danieleguglietti/discord_bot/pull/2) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
+2. 💪 Opened PR [#2](https://github.com/danieleguglietti/discord_bot/pull/2) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
+3. 🎉 Merged PR [#1](https://github.com/danieleguglietti/discord_bot/pull/1) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
 <!--END_SECTION:activity-->
 
 ---
