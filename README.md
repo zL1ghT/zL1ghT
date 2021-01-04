@@ -73,9 +73,9 @@ I really enjoy math & computer science.</p>
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/denoorg/json/pull/1) in [denoorg/json](https://github.com/denoorg/json)
-2. 🎉 Merged PR [#2](https://github.com/danieleguglietti/discord_bot/pull/2) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
-3. 💪 Opened PR [#2](https://github.com/danieleguglietti/discord_bot/pull/2) in [danieleguglietti/discord_bot](https://github.com/danieleguglietti/discord_bot)
+1. 🎉 Merged PR [#1](https://github.com/danieleguglietti/futurecraft_discord_bot/pull/1) in [danieleguglietti/futurecraft_discord_bot](https://github.com/danieleguglietti/futurecraft_discord_bot)
+2. 💪 Opened PR [#1](https://github.com/danieleguglietti/futurecraft_discord_bot/pull/1) in [danieleguglietti/futurecraft_discord_bot](https://github.com/danieleguglietti/futurecraft_discord_bot)
+3. 💪 Opened PR [#1](https://github.com/denoorg/json/pull/1) in [denoorg/json](https://github.com/denoorg/json)
 <!--END_SECTION:activity-->
 
 ---
