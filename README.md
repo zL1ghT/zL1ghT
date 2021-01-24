@@ -73,9 +73,9 @@ I really enjoy math & computer science.</p>
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mundoex/discord-tts/issues/4) in [mundoex/discord-tts](https://github.com/mundoex/discord-tts)
-2. 🎉 Merged PR [#7](https://github.com/danieleguglietti/JackpotMinecraftPlugin/pull/7) in [danieleguglietti/JackpotMinecraftPlugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)
-3. 💪 Opened PR [#7](https://github.com/danieleguglietti/JackpotMinecraftPlugin/pull/7) in [danieleguglietti/JackpotMinecraftPlugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)
+1. 🎉 Merged PR [#1](https://github.com/danieleguglietti/futurecraft_discord_bot/pull/1) in [danieleguglietti/futurecraft_discord_bot](https://github.com/danieleguglietti/futurecraft_discord_bot)
+2. 💪 Opened PR [#1](https://github.com/danieleguglietti/futurecraft_discord_bot/pull/1) in [danieleguglietti/futurecraft_discord_bot](https://github.com/danieleguglietti/futurecraft_discord_bot)
+3. 💪 Opened PR [#1](https://github.com/denoorg/json/pull/1) in [denoorg/json](https://github.com/denoorg/json)
 <!--END_SECTION:activity-->
 
 ---
