@@ -7,10 +7,10 @@ I really enjoy math & computer science.</p>
 
 <br/>
 
-- 🔭 I’m currently working on **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**!
-- 📖 I’m currently learning **Python**!
-- 🥅 2020 Goals: End & publish **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotMinecraftPlugin)**.
-- ⚡ Fun fact: I love to and play **drums** and **videogames**!
+- 🔭 I’m currently working on **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotPlugin)**!
+- 📖 I’m currently learning **OpenGL**!
+- 🥅 2021 Goals: End & publish **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotPlugin)**.
+- ⚡ Fun fact: I love to play **drums** and **videogames**!
 
 <br/>
 
