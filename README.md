@@ -7,15 +7,15 @@ I really enjoy math & computer science.</p>
 
 <br/>
 
-- 🔭 I’m currently working on **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotPlugin)**!
+- 🔭 I’m currently working on **[a brand-new site](guglietti.dev)**!
 - 📖 I’m currently learning **OpenGL**!
-- 🥅 2021 Goals: End & publish **[Jackpot Minecraft Plugin](https://github.com/danieleguglietti/JackpotPlugin)**.
+- 🥅 2021 Goals: End & publish **[contribute more on the OpenSource community](https://github.com/danieleguglietti/JackpotPlugin)**.
 - ⚡ Fun fact: I love to play **drums** and **videogames**!
 
 <br/>
 
 
-### 🔊 Now Playing
+## 🔊 Now Playing
 
 ![Spotify](https://novatorem.danieleguglietti.vercel.app/api/spotify)
 
