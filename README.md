@@ -73,9 +73,9 @@ I really enjoy math & computer science.</p>
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/danieleguglietti/jackpot/pull/2) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
-2. 🎉 Merged PR [#1](https://github.com/danieleguglietti/jackpot/pull/1) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
-3. 💪 Opened PR [#1](https://github.com/danieleguglietti/jackpot/pull/1) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
+1. 🎉 Merged PR [#2](https://github.com/danieleguglietti/jackpot/pull/2) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
+2. 💪 Opened PR [#2](https://github.com/danieleguglietti/jackpot/pull/2) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
+3. 🎉 Merged PR [#1](https://github.com/danieleguglietti/jackpot/pull/1) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
 <!--END_SECTION:activity-->
 
 ---
