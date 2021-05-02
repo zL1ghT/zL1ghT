@@ -74,8 +74,8 @@ I really enjoy math & computer science.</p>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#220](https://github.com/jakearchibald/idb/issues/220) in [jakearchibald/idb](https://github.com/jakearchibald/idb)
-2. ❗️ Opened issue [#220](https://github.com/jakearchibald/idb/issues/220) in [jakearchibald/idb](https://github.com/jakearchibald/idb)
-3. 🎉 Merged PR [#3](https://github.com/danieleguglietti/jackpot/pull/3) in [danieleguglietti/jackpot](https://github.com/danieleguglietti/jackpot)
+2. 🗣 Commented on [#220](https://github.com/jakearchibald/idb/issues/220) in [jakearchibald/idb](https://github.com/jakearchibald/idb)
+3. ❗️ Opened issue [#220](https://github.com/jakearchibald/idb/issues/220) in [jakearchibald/idb](https://github.com/jakearchibald/idb)
 <!--END_SECTION:activity-->
 
 ---
