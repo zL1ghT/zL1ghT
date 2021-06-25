@@ -49,6 +49,7 @@ I really enjoy math & computer science.</p>
 ![MATERIAL-UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <br/>
 
