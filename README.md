@@ -7,7 +7,7 @@ I really enjoy math & computer science.</p>
 
 <br/>
 
-- 🔭 I’m currently working on **[a brand-new site](guglietti.dev)**!
+- 🔭 I’m currently working on **[a brand-new site](https://guglietti.dev)**!
 - 📖 I’m currently learning **OpenGL**!
 - 🥅 2021 Goals: End & publish **[contribute more on the OpenSource community](https://github.com/danieleguglietti/JackpotPlugin)**.
 - ⚡ Fun fact: I love to play **drums** and **videogames**!
